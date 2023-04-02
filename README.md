@@ -1,4 +1,4 @@
-# Agora
+# TRUiC
 This is a decentralized version of the [Gumroad.com](https://gumroad.com/). A place for digital creators to mint and sell their content. These files are then available for purchase by other users. Users can login using their web2 socials like google, facebook etc. They can mint any file as ERC1155 token and set its attributes like supply, price, cover image.
 
 <br/>
